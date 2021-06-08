@@ -19,7 +19,7 @@ namespace Hola_Mundo_frase_motivadora_
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("No te preocupes por lo mas que lo estes pasando ahora, La vida es una montaña rusa y despues de las bajadas, vienen las subidas");
+            MessageBox.Show("El unico modo de hacer un gran trabajo es amar lo que haces");
        }
     }
 }
